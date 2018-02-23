@@ -1,0 +1,7 @@
+C:\repos\Hackerrank\30DaysOfCode\Day1DataTypes\Day1DataTypes\bin\Debug\Day1DataTypes.exe.config
+C:\repos\Hackerrank\30DaysOfCode\Day1DataTypes\Day1DataTypes\bin\Debug\Day1DataTypes.exe
+C:\repos\Hackerrank\30DaysOfCode\Day1DataTypes\Day1DataTypes\bin\Debug\Day1DataTypes.pdb
+C:\repos\Hackerrank\30DaysOfCode\Day1DataTypes\Day1DataTypes\obj\Debug\Day1DataTypes.csprojResolveAssemblyReference.cache
+C:\repos\Hackerrank\30DaysOfCode\Day1DataTypes\Day1DataTypes\obj\Debug\Day1DataTypes.csproj.CoreCompileInputs.cache
+C:\repos\Hackerrank\30DaysOfCode\Day1DataTypes\Day1DataTypes\obj\Debug\Day1DataTypes.exe
+C:\repos\Hackerrank\30DaysOfCode\Day1DataTypes\Day1DataTypes\obj\Debug\Day1DataTypes.pdb
